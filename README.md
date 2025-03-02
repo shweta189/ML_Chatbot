@@ -1,6 +1,10 @@
 # ML_Chatbot
 A chatbot that explains machine learning concepts and terminologies using HuggingFace,Langchain, FAISS and Streamlit.It provides fast and relavent response using Mistral AI inference for embeddings and FAISS-CPU for efficient similarity search.
 
+![alt text](image.png)
+
+
+
 
 ## Features
 Understands ML concepts - Answers ML-related questions and explain key terms.
