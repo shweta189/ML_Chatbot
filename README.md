@@ -1,2 +1,2 @@
 # ML_Chatbot
-oncepts and terminologies using open-source tools. Used Hugging Face for embeddings, FAISS CPU for vector storage, and Mistral with streamlit for a conversational interface.
+conepts and terminologies using open-source tools. Used Hugging Face for embeddings, FAISS CPU for vector storage, and Mistral with streamlit for a conversational interface.
