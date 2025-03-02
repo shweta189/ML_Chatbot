@@ -17,15 +17,14 @@ User-Friendly Interface - Built with streamlit for an interactive experiance.
 
 ## Installation
 
-1. Clone the repository
-
-git clone https://github.com/yourusername/ML_Chatbot.git
+1. Clone the repository <br>
+git clone https://github.com/yourusername/ML_Chatbot.git <br>
 cd mL_Chatbot
 
-2. Install Dependencies
+2. Install Dependencies <br>
 pip install -r requirements.txt
 
-3. Run the chatbot
+3. Run the chatbot <br>
 streamlit run app.py
 
 ## How It Works
