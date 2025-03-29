@@ -5,7 +5,7 @@ from langchain.schema import Document
 from langchain_community.vectorstores import FAISS
 # step1 : Load raw PDF(s)
 
-DATA_PATH = "Chatbot\data"
+DATA_PATH = "ML_Chatbot\data"
 
 def load_pdf_files(data):
     loader = DirectoryLoader(data,
